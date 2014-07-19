@@ -25,3 +25,9 @@ Can use this to change font size based on specific widths
     background: #ccc;
   }
 }
+
+### Scrolling
+
+Declarative based scroll reveal - avoid reloading.
+
+https://github.com/julianlloyd/scrollReveal.js
